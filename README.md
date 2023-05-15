@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 [![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordan-dsouza)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hi 👋, I'm Jordan D'Souza</h1>
-<tag style="background-image:https://wallpaperaccess.com/full/449776.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordan-dsouza&label=Profile%20views&color=0e75b6&style=flat" alt="jordan-dsouza" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jordan-dsouza" alt="jordan-dsouza" /></a> </p>
-
+<--
 <h3 align="left">Connect with me:</h3>
+-->
 <p align="left">
 <a href="https://kaggle.com/jordan d'souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jordan d'souza" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jordan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jordan1" height="30" width="40" /></a>
