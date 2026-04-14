@@ -57,11 +57,7 @@ Building scalable ML systems, LLM applications, and data-driven solutions
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jordan-dsouza&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordan-dsouza&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jordan-dsouza&show_icons=true&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
