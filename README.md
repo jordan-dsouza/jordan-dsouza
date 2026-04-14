@@ -52,22 +52,25 @@ I build end-to-end machine learning systems and GenAI applications with a focus 
 
 ---
 
-## Tech Stack
+## Technical Expertise
 
-**Languages**  
-`Python` • `SQL`  
+### Machine Learning & Deep Learning
+Scikit-learn • XGBoost • TensorFlow • PyTorch • OpenCV  
 
-**Machine Learning**  
-`Scikit-learn` • `XGBoost` • `TensorFlow` • `PyTorch` • `OpenCV`
+### NLP & GenAI
+LangChain • NLTK • Vector Databases • Prompt Engineering • HuggingFace
 
-**Data & Analysis**  
-`Pandas` • `NumPy` • `Matplotlib`  
+### Data & Analytics
+Pandas • NumPy • Matplotlib • Seaborn  
 
-**GenAI / LLMs**  
-`LangChain` • `Vector DBs` • `Prompt Engineering` • `NLTK` • `HuggingFace`
+### Backend & ML Systems
+FastAPI • REST APIs • Model Deployment  
 
-**Tools**  
-`FastAPI` • `Git` • `Tableau` • `PowerBI` • `Excel` • `MySQL`
+### Programming & Databases
+Python • SQL • MySQL  
+
+### Tools & Workflow
+Git • Jupyter • Google Colab  
 
 ---
 
