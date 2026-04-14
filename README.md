@@ -64,7 +64,7 @@ I build end-to-end machine learning systems and GenAI applications with a focus 
 `Pandas` • `NumPy` • `Matplotlib`  
 
 **GenAI / LLMs**  
-`LangChain` • `Vector DBs` • `Prompt Engineering` • `NLTK`
+`LangChain` • `Vector DBs` • `Prompt Engineering` • `NLTK` • `HuggingFace`
 
 **Tools**  
 `FastAPI` • `Git` • `Tableau` • `PowerBI` • `Excel` • `MySQL`
