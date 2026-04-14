@@ -83,6 +83,6 @@ I build end-to-end machine learning systems and GenAI applications with a focus 
 
 <p>
 Kaggle: https://kaggle.com/jordandsouza <br>
-LeetCode: https://leetcode.com/jordan1
+LeetCode: https://leetcode.com/jordan1 <br>
 LinkedIn: https://linkedin.com/in/jordanddsouza/
 </p>
